@@ -21,3 +21,4 @@ https://robomarkt.ru/
 
 *Эта компания электронной регистрацией*
 
+theme: jekyll-theme-minimal
